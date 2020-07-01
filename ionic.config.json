@@ -1,0 +1,7 @@
+{
+  "name": "menutabs",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
